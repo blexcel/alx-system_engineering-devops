@@ -10,3 +10,7 @@ This documentation shows some basic shell, I/O Redirection and filter commands.I
 
 ### 0-hello_world
 - A script that prints “Hello, World”, followed by a new line to the standard output
+
+#!/bin/bash
+
+echo Hello, World
